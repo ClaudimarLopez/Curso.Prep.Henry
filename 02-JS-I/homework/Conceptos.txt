@@ -1,0 +1,17 @@
+Variable: es un elemento al  que se le asigna  un valor o tipo de dato
+que puede variar.
+
+String: es un tipo de dato que contiene distintos tipos de caracteres ya 
+sean letras, números o símbolos.
+
+Funciones:  son instrucciones  que permiten realizar una operación específica 
+y devuelven un valor, utilizan o no argumentos que son valores necesarios
+para realizar la tarea que le fue asignada a la función y devuelven un valor 
+que sería lo que se conoce como return.
+
+Declaraciones if: es una condición que se aplica en una función o alguna
+operación para que pueda o no realizar una tarea.
+
+Valores booleanos (true, false): es un valor cuya representación 
+admite solo valor de 0 o 1, es decir un valor binario que representa 
+verdadero o falso.
