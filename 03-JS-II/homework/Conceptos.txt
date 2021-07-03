@@ -1,0 +1,15 @@
+For: es un ciclo que se repite una y otra vez siempre que se cumpla una 
+condición dentro de un rango de valores para que se pueda ejecutar una 
+sentencia.
+
+And (&&): es un operador lógico que compara 2 expresiones el cual devolverá
+un valor verdadero siempre y cuando ambas expresiones sean verdaderas, 
+de lo contrario devolverá falso.
+
+Or(||): es un operador lógico que compara 2 expresiones el cual devolverá 
+un valor verdadero siempre y cuando alguno de los dos valores comparados
+sea verdadero y solo devolverá falso cuando ambos valores comparados sean
+falsos.
+
+Not (!) es un operador lógico que niega la expresa, si es verdadera la 
+convierte en falsa y viceversa.
