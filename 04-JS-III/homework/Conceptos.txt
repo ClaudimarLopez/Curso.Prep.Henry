@@ -1,0 +1,5 @@
+Un Array puede ser visto como una matriz de 1 fila por n cantidad de columnas, en los que cada posición o 
+índice almacena un dato de cualquier tipo y permite al programador acceder a ellos mediante diferentes 
+operaciones de manejo del array, bien sea acceder a algún elemento o dato, hacer comparaciones, operaciones, 
+ubicar algún elemento recorriendo el array ya sea para mostrarlo, modificarlo, eliminarlo, añadir uno nuevo 
+entre otros.
