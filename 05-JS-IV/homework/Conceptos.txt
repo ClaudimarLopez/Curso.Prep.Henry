@@ -1,0 +1,16 @@
+Un objeto: es un entidad independiente con propiedades y tipos que caracterizan a dicha entidad, las cuales ayudan 
+a definirla. Ejemplo puedo nombrar un objeto animal con características propias, tales como: tipo, raza, género, color, etc.
+
+Propiedades: son las relaciones que existen entre una característica del objeto al cual se le otorga un nombre clave 
+y su valor.
+
+Métodos: Los métodos son  funciones que cumplen la tarea de representar alguna propiedad  de un objeto.
+
+Bucle `for…in`: Este método recorre todas las propiedades enumerables de un objeto y su cadena de prototipos.
+
+Notación de puntos vs notación de corchetes: La notación de puntos y la notación de corchetes se utilizan para acceder 
+a las propiedades del objeto en JavaScript. La notación de puntos se usa principalmente porque es más fácil de leer y 
+comprender y también menos detallada. La principal diferencia entre la notación de puntos y la notación de corchetes 
+es que la notación de corchetes nos permite acceder a las propiedades del objeto usando variables. Es decir; Cuando 
+usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto
+(por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
