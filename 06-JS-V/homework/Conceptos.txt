@@ -1,0 +1,6 @@
+Prototype:
+Un prototipo es una propiedad o característica adicional que tiene un objeto y que hereda a otro objeto sus 
+características de manera alternativa.
+
+Constructors (de Clases):
+Es una función usada para definir las propiedades de  una clase.
